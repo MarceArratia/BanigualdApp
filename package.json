@@ -4,7 +4,7 @@
   "private": true,
   "description": "a web app that help Banigualdad fundation ",
   "main": "index.js",
-  "homepage": "https://RaquelCC.github.io/BanigualdApp",
+  "homepage": "https://MarceArratia.github.io/BanigualdApp",
   "dependencies": {
     "firebase": "^5.9.0",
     "firebaseui": "^3.5.2",
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mpabarca/SCL007-Hackathon-Fundacion-Banigualdad.git"
+    "url": "https://github.com/MarceArratia/BanigualdApp"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mpabarca/SCL007-Hackathon-Fundacion-Banigualdad/issues"
+    "url": ""
   },
   "scripts": {
     "predeploy": "npm run build",
